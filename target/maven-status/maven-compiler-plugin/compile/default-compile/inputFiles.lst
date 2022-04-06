@@ -1,0 +1,17 @@
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\dto\response\BaseWebResponse.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\service\UserService.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\ApitipocambioApplication.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\repository\ExchangeRateRepository.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\repository\QueryRepository.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\controller\ExchangerateController.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\repository\UserRepository.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\model\Exchangerate.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\dto\request\AddExchangerateRequest.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\exception\ErrorCode.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\service\QueryServiceImpl.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\service\UserServiceImpl.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\service\ExchangerateServiceImpl.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\model\User.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\service\ExchangerateService.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\model\Query.java
+C:\IBM\spring\workspace\apitipocambio\apitipocambio\src\main\java\com\bcp\apitipocambio\service\QueryService.java
